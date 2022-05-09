@@ -1,5 +1,5 @@
 import web3 from './web3';
-import CampaignFactory from '../../artifacts/contracts/Campaign.sol/CampaignFactory.json';
+import CampaignFactory from '../artifacts/contracts/Campaign.sol/CampaignFactory.json';
 const instance = new web3.eth.Contract(
   CampaignFactory.abi,
   // '0x4C857FE1334Cc1B607E33dEe69c06bB2B05A8bF8'
