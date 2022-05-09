@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <Menu style={{ marginTop: '20px' }}>
       <Link href='/'>
-        <Menu.Item>CrowdCoin</Menu.Item>
+        <Menu.Item>QROWDY</Menu.Item>
       </Link>
       <Menu.Menu position='right'>
         <Link href='/'>
